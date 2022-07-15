@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "27acbc56-dd16-4474-9f8d-bd8756f5b516": {
+      "ProjectGuid": "27acbc56-dd16-4474-9f8d-bd8756f5b516",
+      "DisplayName": "MvcFilmography",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
